@@ -120,6 +120,7 @@
     </Compile>
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\AppointmentBockingController.cs" />
+    <Compile Include="Controllers\AvailableAppointmentController.cs" />
     <Compile Include="Controllers\DoctorController.cs" />
     <Compile Include="Controllers\FirstAidController.cs" />
     <Compile Include="Controllers\MedicineController.cs" />
